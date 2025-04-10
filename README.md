@@ -46,3 +46,4 @@ By comparing these methods, we better understand the strengths of each library a
 
 
 
+nature : tự nhiên
