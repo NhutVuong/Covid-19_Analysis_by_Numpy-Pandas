@@ -55,3 +55,4 @@ exotic : ki la
 rain forest : rung nhiet doi
 desert : xa mac
 landscape : phong canh
+cliff : vach da
