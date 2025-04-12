@@ -50,3 +50,4 @@ nature : thien nhien
 snow-capped peak : dinh nui co tuyet
 snow boarding : truot tuyet
 appreciate : hieu ro gia tri,thuong thuc
+hiking : di bo duong dai
