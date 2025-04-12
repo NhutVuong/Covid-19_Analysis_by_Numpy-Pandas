@@ -48,3 +48,4 @@ By comparing these methods, we better understand the strengths of each library a
 take a walk : di dao
 nature : thien nhien
 snow-capped peak : dinh nui co tuyet
+snow boarding : truot tuyet
