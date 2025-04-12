@@ -52,3 +52,4 @@ snow boarding : truot tuyet
 appreciate : hieu ro gia tri,thuong thuc
 hiking : di bo duong dai
 exotic : ki la
+rain forest : rung nhiet doi
